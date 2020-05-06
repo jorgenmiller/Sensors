@@ -1,14 +1,16 @@
-/*
-Jorgen Miller
-May 6, 2020
-
-Prints "Hello World!" to the console.
+/**
+* @author Jorgen Miller
+* @version May 6, 2020
+*
+* Prints "Hello World!" to the console.
 */
 
-//define HelloWorld class
 class HelloWorld {
 
-    //main method
+    /**
+    * main() runs from the command line
+    * @param args Ignored
+    */
     public static void main(String[] args) {
 
         //define message to be printed
